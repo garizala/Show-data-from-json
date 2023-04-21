@@ -1,0 +1,40 @@
+
+[
+    {
+        "cover":"img/adele.jpg",
+        "artist":"Adele",
+        "price":"60.00",
+        "link":"Buy Album"
+    },
+    {
+        "cover":"img/angela-aguilar.jpg",
+        "artist":"Angela Aguilar",
+        "price":"60.00",
+        "link":"Buy Album"
+    },
+    {
+        "cover":"img/farruko.jpg",
+        "artist":"Farruko",
+        "price":"60.00",
+        "link":"Buy Album"
+    },
+    {
+        "cover":"img/ice-cube.jpg",
+        "artist":"Ice Cube",
+        "price":"60.00",
+        "link":"Buy Album"
+    },
+    {
+        "cover":"img/madona.jpg",
+        "artist":"Madona",
+        "price":"60.00",
+        "link":"Buy Album"
+    },
+    {
+        "cover":"img/queen.jpg",
+        "artist":"Queen",
+        "price":"60.00",
+        "link":"Buy Album"
+    }
+    
+]
